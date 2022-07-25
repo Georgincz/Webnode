@@ -6,7 +6,9 @@
 	  "small": "https://static.d.webnodev.com/files/0a/0aq/450/0aqw14.jpg",
 	  "medium": "https://static.d.webnodev.com/files/0a/0aq/700/0aqw14.jpg",
 	  "large": "https://static.d.webnodev.com/files/0a/0aq/0aqw14.jpg",
-	  "alt": "Popisek obrázku 1"
+	  "alt": "Popisek obrázku 1",
+	  "width": "1920",
+	  "height": "1080"
 	},
 	{
 	  "id": 2,
@@ -14,7 +16,9 @@
 	  "small": "https://static.d.webnodev.com/files/4c/4c2/450/4c2if4.jpg",
 	  "medium": "https://static.d.webnodev.com/files/4c/4c2/700/4c2if4.jpg",
 	  "large": "https://static.d.webnodev.com/files/4c/4c2/4c2if4.jpg",
-	  "alt": "Popisek obrázku 2"
+	  "alt": "Popisek obrázku 2",
+	  "width": "1920",
+	  "height": "1080"
 	},
 	{
 	  "id": 3,
@@ -22,7 +26,9 @@
 	  "small": "https://static.d.webnodev.com/files/33/338/450/338m4o.jpg",
 	  "medium": "https://static.d.webnodev.com/files/33/338/700/338m4o.jpg",
 	  "large": "https://static.d.webnodev.com/files/33/338/338m4o.jpg",
-	  "alt": "Popisek obrázku 3"
+	  "alt": "Popisek obrázku 3",
+	  "width": "1920",
+	  "height": "1080"
 	},
 	{
 	  "id": 4,
@@ -30,7 +36,9 @@
 	  "small": "https://static.d.webnodev.com/files/43/43y/450/43y7lv.jpg",
 	  "medium": "https://static.d.webnodev.com/files/43/43y/700/43y7lv.jpg",
 	  "large": "https://static.d.webnodev.com/files/43/43y/43y7lv.jpg",
-	  "alt": "Popisek obrázku 4"
+	  "alt": "Popisek obrázku 4",
+	  "width": "1920",
+	  "height": "1080"
 	},
 	{
 	  "id": 5,
@@ -38,7 +46,9 @@
 	  "small": "https://static.d.webnodev.com/files/25/25b/450/25bj89.jpg",
 	  "medium": "https://static.d.webnodev.com/files/25/25b/700/25bj89.jpg",
 	  "large": "https://static.d.webnodev.com/files/25/25b/25bj89.jpg",
-	  "alt": "Popisek obrázku 5"
+	  "alt": "Popisek obrázku 5",
+	  "width": "1920",
+	  "height": "1080"
 	},
 	{
 	  "id": 6,
@@ -46,7 +56,9 @@
 	  "small": "https://static.d.webnodev.com/files/0c/0co/450/0co7f1.jpg",
 	  "medium": "https://static.d.webnodev.com/files/0c/0co/700/0co7f1.jpg",
 	  "large": "https://static.d.webnodev.com/files/0c/0co/0co7f1.jpg",
-	  "alt": "Popisek obrázku 6"
+	  "alt": "Popisek obrázku 6",
+	  "width": "1920",
+	  "height": "1080"
 	}
   ]
 }
